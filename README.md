@@ -5,7 +5,8 @@ MR perfusion scans
 PET-CT fusion imaging
 Real-time ultrasound
 3D imaging reconstructions
-*IN FUTURE could :
+
+IN FUTURE could :
 * Integrate with emerging imaging technologies
 * Enhanced support for 3D printing applications
 * Improved compatibility with mobile devices
